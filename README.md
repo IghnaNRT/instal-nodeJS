@@ -1,3 +1,3 @@
 # instal-nodeJS
-TAMPILAN AWAL
-![AWAL](img/1.png) "Tampilan Awal Website"
+Install Live Server
+![AWAL](img/1.png)
